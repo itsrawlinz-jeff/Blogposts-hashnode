@@ -1,0 +1,3 @@
+## WEB TEMPLATES
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Free HTML Template Sites for web developers. <br><br>1. free-css .com<br>More than 3k free website template in HTML &amp; CSS<br><br>2. graygrids .com<br>100+ free HTML templates for websites<br><br>3. templated .co<br>A free collection of 867 simple CSS, HTML &amp; Responsive site templates</p>&mdash; Rawlinz 💻🚀 (@itsrawlinz_jeff) <a href="https://twitter.com/itsrawlinz_jeff/status/1338438667266785281?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
